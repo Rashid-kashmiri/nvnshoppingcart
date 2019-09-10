@@ -139,7 +139,7 @@
 	
 	</dependencies>
 	<build>
-		<finalName>nvnshoppingcart</finalName>
+		<finalName>RASHIDshoppingcart</finalName>
 	</build>
 	<artifactId>registration</artifactId>
 </project>
